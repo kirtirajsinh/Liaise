@@ -6,7 +6,7 @@ function Feed() {
     <>
     <Container maxW="xl" centerContent>
     <h2>Rooms</h2>
-    <Box  border="2px solid #3265B1" h="40em" w="50%" m={2}   boxShadow="dark-lg" p="6" rounded="md" bg="white">
+    <Box className="mainfeed" border="2px solid #3265B1" h="40em" w="50%" m={2} boxShadow="dark-lg" p="6" rounded="md" bg="white">
   Card
 </Box>
 
